@@ -10,7 +10,7 @@
 ### 🚀 About me
 
 👩‍💻 Programming student at [42 Urduliz - 42 Madrid](https://www.42urduliz.com/)  
-🛠️ Learning **C** and **C++** (low-level and OPP)
+🛠️ Learning **C** and **C++** (low-level and OPP)  
 📊 Some experience in data analysis     
 🔍 Interests:  
 - Software development  
