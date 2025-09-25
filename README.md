@@ -57,7 +57,7 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛⬛⬛
 |[CPP Module 01](https://github.com/AnaMac3/42-CPP_Module_01)    | C++ basics: memory allocation, references, and more | ✅  |
 |[CPP Module 02](https://github.com/AnaMac3/42-CPP_Module_02)    | Exploring polymorphism, operator overloading, and canonical forms | ✅  |
 |[CPP Module 03](https://github.com/AnaMac3/42-CPP_Module_03)    | Class inheritance and abstract classes  | ✅  |
-|CPP Module 04  | Templates and deeper OOP design patterns in C++ | 🛠️ On-going  |
+|[CPP Module 04](https://github.com/AnaMac3/42-CPP_Module_04)  | Templates and deeper OOP design patterns in C++ | 🛠️ On-going  |
 
 ---
 
