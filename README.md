@@ -10,7 +10,7 @@
 ### 🚀 About me
 
 👩‍💻 Programming student at [42 Urduliz - 42 Madrid](https://www.42urduliz.com/)  
-🛠️ Focused on low-level software development in **C** and object-oriented programming in **C++**
+🛠️ Focused on low-level software development in **C** and object-oriented programming in **C++**  
 📊 Some experience in data analysis     
 🔍 Interests:  
 - Software development  
@@ -42,7 +42,7 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛⬛⬛
 
 ### 📂 42 Projects
 
-| Project    | Description            | Estado      |
+| Project    | Description            | Status      |
 |-------------|------------------------|-------------|
 |[Libft](https://github.com/AnaMac3/42-Libft)    | Custom C library with essential standard functions reimplemented | ✅  |
 |[ft_printf](https://github.com/AnaMac3/42-printf)    |Implementation of a simplified version of `printf` in C | ✅  |
