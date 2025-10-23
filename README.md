@@ -33,8 +33,8 @@ Milestone 0   🟦🟦🟦🟦🟦🟦
 Milestone 1   🟦🟦🟦🟦🟦🟦   
 Milestone 2   🟦🟦🟦🟦🟦🟦  
 Milestone 3   🟦🟦🟦🟦🟦🟦      
-Milestone 4   🟦🟦🟦⬛⬛⬛   
-Milestone 5   ⬛⬛⬛⬛⬛⬛  
+Milestone 4   🟦🟦🟦🟦🟦🟦   
+Milestone 5   🟦⬛⬛⬛⬛⬛  
 Milestone 6   ⬛⬛⬛⬛⬛⬛  
 
 
@@ -58,8 +58,9 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛
 |[CPP Module 02](https://github.com/AnaMac3/42-CPP_Module_02)    | Exploring polymorphism, operator overloading, and canonical forms | ✅  |
 |[CPP Module 03](https://github.com/AnaMac3/42-CPP_Module_03)    | Class inheritance and abstract classes  | ✅  |
 |[CPP Module 04](https://github.com/AnaMac3/42-CPP_Module_04)  | Templates and deeper OOP design patterns in C++ | ✅  |
-|[cub3D](https://github.com/AnaMac3/42-cub3D)  | Pseudo-3D Raycasting engine rendering a 2D map in first-person view with real-time player movement and collinsion handling in C | 🛠️ on going |
-|[NetPractice](https://github.com/AnaMac3/42-NetPractice)  | Interactive networking simulator focused on understanding IP addressing, routing, and subnetting | 🛠️ on going |
+|[cub3D](https://github.com/AnaMac3/42-cub3D)  | Pseudo-3D Raycasting engine rendering a 2D map in first-person view with real-time player movement and collinsion handling in C | ✅  |
+|[NetPractice](https://github.com/AnaMac3/42-NetPractice)  | Interactive networking simulator focused on understanding IP addressing, routing, and subnetting | ✅  |
+|[CPP Module 05](https://github.com/AnaMac3/42-CPP_Module_05) | Exception handling in C++ |  🛠️ on going |
 
 ---
 
