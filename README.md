@@ -56,8 +56,8 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛
 |[CPP Module 00](https://github.com/AnaMac3/42-CPP_Module_00)    |Introduction to object-oriented programming in C++ | ✅  |
 |[CPP Module 01](https://github.com/AnaMac3/42-CPP_Module_01)    | C++ basics: memory allocation, references, and more | ✅  |
 |[CPP Module 02](https://github.com/AnaMac3/42-CPP_Module_02)    | Exploring polymorphism, operator overloading, and canonical forms | ✅  |
-|[CPP Module 03](https://github.com/AnaMac3/42-CPP_Module_03)    | Class inheritance and abstract classes  | ✅  |
-|[CPP Module 04](https://github.com/AnaMac3/42-CPP_Module_04)  | Templates and deeper OOP design patterns in C++ | ✅  |
+|[CPP Module 03](https://github.com/AnaMac3/42-CPP_Module_03)    | Class inheritance in C++  | ✅  |
+|[CPP Module 04](https://github.com/AnaMac3/42-CPP_Module_04)  | Polymorphism, Abstract Classes, and Interfaces in C++ | ✅  |
 |[cub3D](https://github.com/AnaMac3/42-cub3D)  | Pseudo-3D Raycasting engine rendering a 2D map in first-person view with real-time player movement and collinsion handling in C | ✅  |
 |[NetPractice](https://github.com/AnaMac3/42-NetPractice)  | Interactive networking simulator focused on understanding IP addressing, routing, and subnetting | ✅  |
 |[CPP Module 05](https://github.com/AnaMac3/42-CPP_Module_05) | Exception handling in C++ |  🛠️ on going |
