@@ -60,7 +60,7 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛
 |[CPP Module 04](https://github.com/AnaMac3/42-CPP_Module_04)  | Polymorphism, Abstract Classes, and Interfaces in C++ | ✅  |
 |[cub3D](https://github.com/AnaMac3/42-cub3D)  | Pseudo-3D Raycasting engine rendering a 2D map in first-person view with real-time player movement and collinsion handling in C | ✅  |
 |[NetPractice](https://github.com/AnaMac3/42-NetPractice)  | Interactive networking simulator focused on understanding IP addressing, routing, and subnetting | ✅  |
-|[CPP Module 05](https://github.com/AnaMac3/42-CPP_Module_05) | Exception handling in C++ |  🛠️ on going |
+|[CPP Module 05](https://github.com/AnaMac3/42-CPP_Module_05) | Exception handling in C++ , and more Class Hierarchy and Polymorphism |  🛠️ on going |
 
 ---
 
