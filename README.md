@@ -61,8 +61,9 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛
 |[cub3D](https://github.com/AnaMac3/42-cub3D)  | Pseudo-3D Raycasting engine rendering a 2D map in first-person view with real-time player movement and collinsion handling in C | ✅  |
 |[NetPractice](https://github.com/AnaMac3/42-NetPractice)  | Interactive networking simulator focused on understanding IP addressing, routing, and subnetting | ✅  |
 |[CPP Module 05](https://github.com/AnaMac3/42-CPP_Module_05) | Exception handling in C++ , and more Class Hierarchy and Polymorphism |  ✅ |
-|[CPP Module 06](https://github.com/AnaMac3/42-CPP_Module_06) | Type casting, serialization, and runtime type identification in C++ |  🛠️ on going |
+|[CPP Module 06](https://github.com/AnaMac3/42-CPP_Module_06) | Type casting, serialization, and runtime type identification in C++ | ✅ |
 |[CPP Module 07](https://github.com/AnaMac3/42-CPP_Module_07) | Templates in C++ |  🛠️ on going |
+|[CPP Module 08](https://github.com/AnaMac3/42-CPP_Module_08) | Templated containers, iterators, and algorithms |  🛠️ on going |
 
 ---
 
