@@ -63,7 +63,7 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛
 |[CPP Module 05](https://github.com/AnaMac3/42-CPP_Module_05) | Exception handling in C++ , and more Class Hierarchy and Polymorphism |  ✅ |
 |[CPP Module 06](https://github.com/AnaMac3/42-CPP_Module_06) | Type casting, serialization, and runtime type identification in C++ | ✅ |
 |[CPP Module 07](https://github.com/AnaMac3/42-CPP_Module_07) | Templates in C++ |  ✅ |
-|[CPP Module 08](https://github.com/AnaMac3/42-CPP_Module_08) | Templates containers, iterators, and algorithms |  🛠️ on going |
+|[CPP Module 08](https://github.com/AnaMac3/42-CPP_Module_08) | Templates containers, iterators, and algorithms |  ✅ |
 |[CPP Module 09](https://github.com/AnaMac3/42-CPP_Module_09) | More STL: containers, iterators, and algorithms |  🛠️ on going |
 |[Inception](https://github.com/AnaMac3/42-Inception) | System administration |  ... |
 
