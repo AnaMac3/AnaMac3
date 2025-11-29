@@ -52,7 +52,7 @@ Milestone 6   ⬛⬛⬛⬛⬛⬛
 |[Pipex](https://github.com/AnaMac3/42-pipex)    | Simulation of Unix pipes with process management and IPC | ✅  |
 |[Fract-ol](https://github.com/AnaMac3/42-fract-ol)    | Interactive fractal visualizer in C with graphics and math modeling | ✅  |
 |[Philosophers](https://github.com/AnaMac3/42-philosophers)    | Multithreaded solution to the Dining Philosophers concurrency problem | ✅  |
-|Minishell |Simplified Unix shell in C with parsing, processes, and signals | ✅  |
+|[Minishell](https://github.com/AnaMac3/42-Minishell) |Simplified Unix shell in C with parsing, processes, and signals | ✅  |
 |[CPP Module 00](https://github.com/AnaMac3/42-CPP_Module_00)    |Introduction to object-oriented programming in C++ | ✅  |
 |[CPP Module 01](https://github.com/AnaMac3/42-CPP_Module_01)    | C++ basics: memory allocation, references, and more | ✅  |
 |[CPP Module 02](https://github.com/AnaMac3/42-CPP_Module_02)    | Exploring polymorphism, operator overloading, and canonical forms | ✅  |
